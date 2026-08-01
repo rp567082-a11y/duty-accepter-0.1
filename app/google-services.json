@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720399849710",
+    "project_id": "duty-accepter",
+    "storage_bucket": "duty-accepter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720399849710:android:feee94a03de9c549f6fbff",
+        "android_client_info": {
+          "package_name": "com.aistudio.decoder.xzkqwa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrQdyyDz8TJKsZtfnAh44USMuXECq3UdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

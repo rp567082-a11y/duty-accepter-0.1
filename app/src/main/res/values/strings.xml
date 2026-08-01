@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DA Duty Accepter</string>
+    <string name="accessibility_service_label">Duty Accepter Automation Service</string>
+    <string name="accessibility_service_description">Monitors window events and automatically clicks configured duty accept targets.</string>
+</resources>
